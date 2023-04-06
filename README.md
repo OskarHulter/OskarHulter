@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior full stack developer with a focus on JavaScript, Typescript, Node and the React ecosystem.<br><br>Looking for my first job in web3 - preferably frontend focused and typescript heavy.<br>Current crypto code experience is limited to trying out truffles and solidity and fixing pinescript on crypto related indicators on tradingview, like this example.<br><br>My favorite tools include ai, types, zod, nx, react-query, e2e testing with playwright and NewSQL services like PlanetScale.
+Senior full stack developer with a focus on JavaScript, Typescript, Node and the React ecosystem.<br><br>Looking for my first job in web3 - preferably  typescript heavy.<br><br>My favorite tools include ai, types, zod, nx, react-query, playwright and NewSQL services like PlanetScale.
 
 
 ## 🌐 Socials:
