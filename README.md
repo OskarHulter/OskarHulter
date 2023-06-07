@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior full stack developer with a focus on JavaScript, Typescript, Node and the React ecosystem.<br><br> Open to new opportunities - preferably  typescript heavy.<br><br>My favorite tools include ai, types, zod, nx, react-query, playwright, vite and NewSQL services like PlanetScale. <br><br> 
+Senior full stack developer with a focus on JavaScript, Typescript, Node and the React ecosystem.<br><br>My favorite tools include ai, types, zod, nx, react-query, playwright, vite and NewSQL services like PlanetScale. <br><br> 
 Rust curious.
 
 
