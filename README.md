@@ -1,7 +1,31 @@
-# 💫 About Me:
-Senior full stack developer with a focus on JavaScript, Typescript, Node and the React ecosystem.<br><br>My favorite tools include ai, types, zod, nx, react-query, playwright, vite and NewSQL services like PlanetScale. <br><br> 
-Rust curious.
+<h1 align='center'>
+  Hi there 👋 I'm Oskar 👨‍💻
+</h1>
 
+<p align='center'>
+  A developer from Sweden.
+</p>
+
+<p align='center'>
+  <a href="https://github.com/sponsors/OskarHulter">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/OskarHulter/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+
+<h2 align='center'>
+  💫 About Me:
+</h2>
+
+<p align='center'>
+  Senior full stack developer with a focus on JavaScript, Typescript, Node and the React ecosystem.<br><br>My favorite tools include ai, types, zod, nx, react-query, playwright, vite and NewSQL services like PlanetScale. <br><br>
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=OskarHulter&show_icons=true&count_private=true&theme=tokyo-night" width="350"></a>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/OskarHulter) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/OHulter) 
