@@ -72,6 +72,15 @@
 </h2>
 
 <p align='center'>
+  <a href="https://javascript.com/">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://typescript.com/">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
+
+<p align='center'>
   I 💜 Tools
 </p>
 
@@ -81,18 +90,8 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<p align='center'>
-  <a href="https://javascript.com/">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://typescript.com/">
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />        
-  </a>&nbsp;&nbsp;
- 
-</p>
-
 <h3 align='center'>
-  🪛 Backend
+  🔙 Backend
 </h3>
 
 <p align='center'>
@@ -105,7 +104,7 @@
 </p>
 
 <h3 align='center'>
-  🪛 Frontend
+  :art: Frontend
 </h3>
 
 <p align='center'>
